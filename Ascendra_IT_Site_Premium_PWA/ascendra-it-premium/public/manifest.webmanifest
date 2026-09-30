@@ -1,0 +1,17 @@
+{
+  "name": "Ascendra IT",
+  "short_name": "Ascendra IT",
+  "description": "Conseil, développement, support, TMA et services IT.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08101d",
+  "theme_color": "#08101d",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
